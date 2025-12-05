@@ -1,5 +1,5 @@
 ---
-title: Carolina Reaper
+title: Острые перцы/Carolina Reaper
 tags:
   - Острые_перцы
 ---
