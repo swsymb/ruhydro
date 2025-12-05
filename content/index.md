@@ -1,6 +1,5 @@
 ---
 title: Welcome to Quartz
-draft: false
 tags:
   - example-tag
 ---
