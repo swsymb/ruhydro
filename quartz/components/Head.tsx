@@ -97,6 +97,7 @@ export default (() => {
             return resource
           }
         })}
+		<meta name="google-site-verification" content="kVRgY1PUNaFWrgZfDYVehSX9or2X3_aOMsk8B9rYFaQ" />
       </head>
     )
   }
