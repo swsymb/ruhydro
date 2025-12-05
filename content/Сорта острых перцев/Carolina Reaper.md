@@ -1,7 +1,7 @@
 ---
 title: Carolina Reaper
 tags:
-  - Острые_перцы
+  - острые_перцы
 ---
 **Семейство:** Паслёновые (Solanaceae)
 **Род:** Капсикум (Capsicum)
