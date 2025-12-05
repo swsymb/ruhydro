@@ -1,6 +1,7 @@
 ---
-title: Home page
+title: Главная страница
 tags:
 ---
+[[Пассивный подпор - мой опыт]]
 [[Carolina Reaper]]
 
