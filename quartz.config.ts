@@ -48,7 +48,7 @@ const config: QuartzConfig = {
     dark: '#f5f5f5',           // Почти белый для заголовков
     secondary: '#4caf7d',      // Мягкий зеленый
     tertiary: '#6bc491',       // Светло-зеленый для ховеров
-    highlight: '#1a2a1f',      // Темно-зеленый фон
+    highlight: '#0a0a0a',      // Темно-зеленый фон
     textHighlight: '#223327'   // Темная зеленая подсветка
 		},
       },
