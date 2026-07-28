@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "ru-RU",
-    baseUrl: "www.ruhydro.ru",  // ВАШ ДОМЕН
+    baseUrl: "ruhydro.ru",  // ВАШ ДОМЕН
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
