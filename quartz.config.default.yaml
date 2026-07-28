@@ -204,7 +204,7 @@ plugins:
     options:
       links:
         Threads: "https://www.threads.com/@hot_capsicum"
-        ВКонтакте: "http://vk.com/id826883036",
+        ВКонтакте: "http://vk.com/id826883036"
         Telegram: "https://t.me/hotcapsicum"
     layout:
       position: footer
