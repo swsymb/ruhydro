@@ -202,6 +202,7 @@ plugins:
   - source: "@quartz-community/footer"
     enabled: true
     options:
+      name: "© 2026 - Личный блог"  # Пока статично
       links:
         Threads: "https://www.threads.com/@hot_capsicum"
         ВКонтакте: "http://vk.com/id826883036"
