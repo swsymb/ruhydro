@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: "Личный блог"
-  pageTitleSuffix: " :: hot_capsicum"
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: ru-RU
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: https://ruhydro.ru/
   ignorePatterns:
     - private
     - templates
