@@ -202,7 +202,6 @@ plugins:
   - source: "@quartz-community/footer"
     enabled: true
     options:
-    showBuiltWith: false
       links:
         Threads: "https://www.threads.com/@hot_capsicum"
         ВКонтакте: "http://vk.com/id826883036"
