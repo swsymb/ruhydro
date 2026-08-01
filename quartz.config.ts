@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 ruhydro",
+    pageTitle: "Личный блог :: hot_capsicum",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
